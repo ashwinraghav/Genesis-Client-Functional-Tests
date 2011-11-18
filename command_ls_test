@@ -1,14 +1,20 @@
 TEST_DIR = "ls_test"
+TEST_PATH = "$(MOUNTED_HOME)/$(TEST_DIR)"
 clean:
-	rm -rf $(TEST_DIR)
+	echo "The test dir is $(MOUNTED_HOME)"
+	rm -rf $(TEST_PATH)
 	rm -rf answer output
 
 bootstrap: clean
-	mkdir $(TEST_DIR)
-	cd ls_test && touch 1 2 3 4 5 && cd ..
-
+	mkdir $(TEST_PATH)
+	touch $(TEST_PATH)/1
+	touch $(TEST_PATH)/2
+	touch $(TEST_PATH)/3
+	touch $(TEST_PATH)/4
+	touch $(TEST_PATH)/5
+	pwd
 answer:
-	echo '1\n2\n3\n4\n5'>answer
+	echo $(TEST_DIR)':\n1\n2\n3\n4\n5'>answer
 
 test: bootstrap answer
-	ls $(TEST_DIR) > output
+	../grid ls $(TEST_DIR) > output
