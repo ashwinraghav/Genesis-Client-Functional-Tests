@@ -1,4 +1,18 @@
-MOUNTED_HOME = "mount_point_1/home/ashwinraghav"
+#all these configurations can be passed in at runtime
+
+#the user should be changed to what you wish it to be
+USER_NAME = "ashwinraghav"
+
+#these configs need not be changed/passed in.
+#Should work out of the box
+MOUNT_DIR = "$(PWD)/mount_point"
+MOUNTED_HOME = "$(MOUNT_DIR)/home/$(USER_NAME)"
+
 test:
-	for t in command_*;do make -f $$t test MOUNTED_HOME=$(MOUNTED_HOME) > /tmp/null; for n in 1 2 3 4 5 6 7 8 9 10;do if test -e "answer_$$n"; then if diff -B -b -w answer_$$n output_$$n ; then echo ".." ; else echo "F-$$t"; fi;  fi; done; make -f $$t clean > /tmp/null ; done
-	
+	for d in command_*/; do cd $$d; make test MOUNTED_HOME=$(MOUNTED_HOME) USER_NAME=$(USER_NAME) > /tmp/null; for n in 1 2 3 4 5 6 7 8 9 10;do if test -e "answer_$$n"; then if diff -B -b -w answer_$$n output_$$n ; then echo ".." ; else echo "F-$$t"; fi;  fi; done; make clean MOUNTED_HOME=$(MOUNTED_HOME) USER_NAME=$(USER_NAME) > /tmp/null ; cd ..; done
+
+setup:
+	#sudo umount $(MOUNT_DIR)
+	rm -rf $(MOUNT_DIR)
+	mkdir $(MOUNT_DIR)
+	../grid fuse --mount local:$(MOUNT_DIR) > /tmp/null &
