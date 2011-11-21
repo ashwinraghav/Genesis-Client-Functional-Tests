@@ -1,0 +1,32 @@
+This is a test suite for the genesis-2 client
+Each test is organised into seperate Makefiles and directories. The naming of the directories should help figure what test it contains.
+Each test has
+1) Test Data setup
+2) Test Run
+3) Test Data Tear-Down
+
+The global Makefile in the outermost directory will pick up any new tests if added and run all the tests.
+---------------------------------------------------------------
+Before Running the tests:
+Download this git repo into the directory that contains the Genesis Binaries. This important.
+
+Once downloaded, enter the Genesis-Client-Functional-Tests directory
+
+1. In the Makefile, change the username to your-grid-user-name.
+2. If you wish to change the mount-point, this can be done here as well (not changing this should not affect the test-run).
+
+Run the following
+#this will setup the fuse-mount directories
+make setup
+---------------------------------------------------------------
+#run all tests
+make test
+
+A successful test run will be represented by ...... (dots)
+Failures may be explicitly shown.
+
+If a particular test is failing, navigate to the correct directory and run the particular test as follows
+
+make test MOUNTED_HOME="../mount_point/home/your-grid-user-name" USER_NAME="your-grid-user-name"
+--------------------------------------------------------------
+
