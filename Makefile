@@ -8,8 +8,10 @@ USER_NAME = "ashwinraghav"
 MOUNT_DIR = "$(PWD)/mount_point"
 MOUNTED_HOME = "$(MOUNT_DIR)/home/$(USER_NAME)"
 
-test:
-	for d in command_*/; do cd $$d; make test MOUNTED_HOME=$(MOUNTED_HOME) USER_NAME=$(USER_NAME) > /tmp/null; for n in 1 2 3 4 5 6 7 8 9 10;do if test -e "answer_$$n"; then if diff -B -b -w answer_$$n output_$$n ; then echo ".." ; else echo "F-$$t"; fi;  fi; done; make clean MOUNTED_HOME=$(MOUNTED_HOME) USER_NAME=$(USER_NAME) > /tmp/null ; cd ..; done
+test: 
+	#in case the previous test run failed unexpectedly
+	
+	for d in command_*/; do ../grid cd /home/$(USER_NAME); cd $$d; make test MOUNTED_HOME=$(MOUNTED_HOME) USER_NAME=$(USER_NAME) > /tmp/null; for n in 1 2 3 4 5 6 7 8 9 10;do if test -e "answer_$$n"; then if diff -B -b -w answer_$$n output_$$n ; then echo ".." ; else echo "F-$$t"; fi;  fi; done; make clean MOUNTED_HOME=$(MOUNTED_HOME) USER_NAME=$(USER_NAME) > /tmp/null ; cd ..; done
 
 setup:
 	#sudo umount $(MOUNT_DIR)

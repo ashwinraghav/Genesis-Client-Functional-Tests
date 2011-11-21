@@ -1,7 +1,7 @@
 TEST_DIR = "ls_test"
 TEST_PATH = "$(MOUNTED_HOME)/$(TEST_DIR)"
 clean:
-	rm -rf $(TEST_PATH)
+	rm -rf "$(MOUNTED_HOME)/$(TEST_DIR)"
 	rm -rf answer_* output_*
 
 bootstrap: clean
