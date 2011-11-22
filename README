@@ -28,5 +28,6 @@ Failures may be explicitly shown.
 If a particular test is failing, navigate to the correct directory and run the particular test as follows
 
 make test MOUNTED_HOME="../mount_point/home/your-grid-user-name" USER_NAME="your-grid-user-name"
+Running the test individually can provide information on the cause for failure & assist debugging
 --------------------------------------------------------------
 
