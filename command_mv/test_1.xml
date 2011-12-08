@@ -1,0 +1,20 @@
+<gsh:script xmlns:gsh="http://vcgr.cs.virginia.edu/genii/xsh/script" xmlns:geniix="http://vcgr.cs.virginia.edu/genii/xsh/grid">
+	<geniix:cd>
+		<gsh:param>${DIR}</gsh:param>
+	</geniix:cd>
+	<geniix:ln>
+		<gsh:param>${SOURCE}</gsh:param>
+		<gsh:param>${DEST}</gsh:param>
+	</geniix:ln>
+
+	<geniix:unlink>
+		<gsh:param>${DEST}</gsh:param>
+	</geniix:unlink>
+	
+	<geniix:ls>
+	</geniix:ls>
+
+	<geniix:cd>
+		<gsh:param>..</gsh:param>
+	</geniix:cd>
+</gsh:script>
