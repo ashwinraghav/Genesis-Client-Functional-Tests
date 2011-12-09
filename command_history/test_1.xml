@@ -1,0 +1,19 @@
+<gsh:script xmlns:gsh="http://vcgr.cs.virginia.edu/genii/xsh/script" xmlns:geniix="http://vcgr.cs.virginia.edu/genii/xsh/grid">
+	<geniix:cd>
+		<gsh:param>${DIR}</gsh:param>
+	</geniix:cd>
+	<geniix:mkdir>
+		<gsh:param>${NEW_DIR}</gsh:param>
+	</geniix:mkdir>
+
+	<geniix:cd>
+		<gsh:param>${NEW_DIR}</gsh:param>
+	</geniix:cd>
+	
+	<geniix:history>
+	</geniix:history>
+
+	<geniix:cd>
+		<gsh:param>..</gsh:param>
+	</geniix:cd>
+</gsh:script>

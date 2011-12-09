@@ -1,0 +1,6 @@
+0 script DIR=ls_test NEW_DIR=directory test_1.xml 
+1 cd ls_test 
+2 mkdir directory 
+3 cd directory 
+4 history 
+
