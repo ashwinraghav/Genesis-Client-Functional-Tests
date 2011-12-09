@@ -1,0 +1,5 @@
+<gsh:script xmlns:gsh="http://vcgr.cs.virginia.edu/genii/xsh/script" xmlns:geniix="http://vcgr.cs.virginia.edu/genii/xsh/grid">
+	<geniix:get-attributes>
+		<gsh:param>${RESOURCE_PATH}</gsh:param>
+	</geniix:get-attributes>
+</gsh:script>
