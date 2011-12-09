@@ -1,0 +1,5 @@
+<gsh:script xmlns:gsh="http://vcgr.cs.virginia.edu/genii/xsh/script" xmlns:geniix="http://vcgr.cs.virginia.edu/genii/xsh/grid">
+	<geniix:ping>
+		<gsh:param>${CONTAINER_PATH}</gsh:param>
+	</geniix:ping>
+</gsh:script>
