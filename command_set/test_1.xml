@@ -1,0 +1,11 @@
+<gsh:script xmlns:gsh="http://vcgr.cs.virginia.edu/genii/xsh/script" xmlns:geniix="http://vcgr.cs.virginia.edu/genii/xsh/grid">
+	<geniix:set>
+		<gsh:param>${VAR_NAME}</gsh:param>
+		<gsh:param>=</gsh:param>
+		<gsh:param>${VAR_VALUE}</gsh:param>
+	</geniix:set>
+
+	<geniix:echo>
+		<gsh:param>${VAR_NAME}</gsh:param>
+	</geniix:echo>
+</gsh:script>

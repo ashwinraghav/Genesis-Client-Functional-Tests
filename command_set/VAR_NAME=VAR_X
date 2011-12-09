@@ -1,0 +1,257 @@
+Script started on Fri 09 Dec 2011 04:55:32 PM CET
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ echo $VAR_X
+
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ echo $VAR_X[H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ echo $VAR_Xxit[Kgit push origin mastercommit -m "fusing"push origin masterexit[Kcho $VAR_X[Kecho $VAR_Xxit[Kgit push origin mastercommit -m "fusing"[12Pstatusadd command_fuse/[11Pstatusadd command_fuse/[11Pstatuscommit -m "fusing"push origin masterexit[Kcho $VAR_X[K
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ 
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ echo $VAR_Xxit[Kgit push origin mastercommit -m "fusing"[12Pstatusadd command_fuse/[11Pstatuscd Genesis-Client-Functional-Tests/git status[Kadd command_fuse/[11Pstatuscommit -m "fusing"push origin masterexit[Kcho $VAR_X[K(reverse-i-search)`': [K/': git add command_fuse/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct': cp command_cp/Makefile command_cp/test_1.xml command_mv/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@e[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@s[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@t[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cat/Makefile command_cp/test_1.xml command_ln/]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cp command_cat/Makefile command_cp/test_1.xml command_ln/grep -R "echo" .[K*.xml/*.xml**/*.xml[1P/*.xmlcp command_cp/Makefile command_ln/make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"vi Makefile[K[1Pmake cleancd command_ln/make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"cat answer_1 [Koutput[C[C[C[8Pd ..make testls[Kgit add command_ln/commit -m "Tests for ln"[6Ppush origin masterls[K command_* | ec -lw[C[C[C[Cman wc[K[4Pls Makefile | wc -lman ls[Kls -d command_* | wc -l[10Pmake coveragels[Kvi README[5@git add[C[C[C[C[C[C[Ccommit -m "Changing readme"[9Ppush origin masterls[Kmkdir command_mvcp command_cp/Makefile command_cp/test_1.xml command_mv/ls command_ln/[Kcd command_mv/make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"cat output_1[Kd..[Kmake test[4Pcd ..make testcd command_mv/make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"cd ..[Kmake testls[Kmv -f command_mv ~[9Pake testcoveragels[Kgit mv command_ls/ command_asmake test[Kgit mv command_ln/ command_alnls[Kgit mv -f command_ln command_aln[18Prm command_ln/git mv -f command_ln command_aln[3Pmv -r[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cake test[Kgit checkout .ls[K
+answer_1  Makefile  output_1  test_1.xml  VAR_NAME=VAR_X
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ [H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ (reverse-i-search)`': [Km': git push origin master[1@a[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ck': make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@e[C[C[C[1@ [C[C[C[1@t[C[C[C[1@e[C[C[C]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cat output_1 
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cat output_1 [H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cat output_1 
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cat output_1 make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"cat output_1 [Kmake test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[C[1P[1P[1P[1P[1@c[1@l[1@e[1@a[1@n
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make clean MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[1Ptest[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[1@clean[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Ptest[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ [H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ ls
+answer_1  Makefile  output_1  test_1.xml  VAR_NAME=VAR_X
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ lsmake test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ ../grid set [K[K[K[K[K[K[K[K[K../grid setA=[K[K A="a" echo $A
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ ../../grid set A="a" echo $A[K[K[K[K[K[K[K[K[K"
+Current version is 2.3.4 Build 2230.
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ ../../grid set A="a"[C[K[1Pa
+Current version is 2.3.4 Build 2230.
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ ../../grid set A=a"a" echo $Amake test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Argument not in correct format.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ ls
+answer_1  Makefile  output_1  test_1.xml  VAR_NAME=VAR_X
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ ls
+answer_1  Makefile  output_1  test_1.xml  VAR_NAME=VAR_X
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ lsmake test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"ls[Kmake test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+car   t outecho ""NEW VALUE"" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+#tightly coupled to the script. Need to refactor.
+../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+	Invalid tool usage!  Set requires 1 argument.set <variable>=<value>
+
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cat output_1 
+VAR_X
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cat output_1 make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo "" > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+echo "command_set test needs to be fixed"
+command_set test needs to be fixed
+#tightly coupled to the script. Need to refactor.
+#../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cat out[K[Kutpt[Kut[K[K[K[K[K[K[K[K[K[Kcat answer_1 
+
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cat answer_1 make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo "" > answer_1
+echo "" > output_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+echo "command_set test needs to be fixed"
+command_set test needs to be fixed
+#tightly coupled to the script. Need to refactor.
+#../../grid script VAR_NAME="VAR_X" VAR_VALUE="NEW VALUE" test_1.xml > output_1
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ [H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cat ot[Kutput_1 
+
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cat answer_1 
+
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cd ..
+]0;
