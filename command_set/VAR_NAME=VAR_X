@@ -254,4 +254,184 @@ command_set test needs to be fixed
 ]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cat answer_1 
 
 ]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_setubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_set$ cd ..
-]0;
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ git status
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   README
+#	deleted:    command_fuse/answer_1
+#	deleted:    command_fuse/output_1
+#	deleted:    command_mkdir/answer_1
+#	deleted:    command_mkdir/output_1
+#	deleted:    command_rm/.Makefile.swp
+#	deleted:    command_rm/.test_1.xml.swp
+#	deleted:    command_unlink/.Makefile.swp
+#	deleted:    command_unlink/answer_1
+#	deleted:    command_unlink/command_aln/Makefile
+#	deleted:    command_unlink/command_aln/test_1.xml
+#	deleted:    command_unlink/output_1
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	command_history/
+#	command_pwd/answer_1
+#	command_pwd/output_1
+#	command_set/
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ git add command_pwd/ command_[K[K[K[K[K[K[K[K[K[K[K[K[Kset/
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ git commit -m ""s"e"t" "c"o"m"m"a"n"d"
+[master 8858c9a] set command
+ Committer: ubuntu <ubuntu@ubuntu-VirtualBox.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+If the identity used for this commit is wrong, you can fix it with:
+
+    git commit --amend --author='Your Name <you@example.com>'
+
+ 7 files changed, 295 insertions(+), 0 deletions(-)
+ create mode 100644 command_set/.Makefile.swp
+ create mode 100644 command_set/.test_1.xml.swp
+ create mode 100644 command_set/Makefile
+ create mode 100644 command_set/VAR_NAME=VAR_X
+ create mode 100644 command_set/answer_1
+ create mode 100644 command_set/output_1
+ create mode 100644 command_set/test_1.xml
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ git push orign master
+fatal: 'orign' does not appear to be a git repository
+fatal: The remote end hung up unexpectedly
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ git push orign master[1@a[1P[1@i
+Counting objects: 10, done.
+Compressing objects:  12% (1/8)   Compressing objects:  25% (2/8)   Compressing objects:  37% (3/8)   Compressing objects:  50% (4/8)   Compressing objects:  62% (5/8)   Compressing objects:  75% (6/8)   Compressing objects:  87% (7/8)   Compressing objects: 100% (8/8)   Compressing objects: 100% (8/8), done.
+Writing objects:  11% (1/9)   Writing objects:  22% (2/9)   Writing objects:  33% (3/9)   Writing objects:  55% (5/9)   Writing objects:  66% (6/9)   Writing objects:  77% (7/9)   Writing objects:  88% (8/9)   Writing objects: 100% (9/9)   Writing objects: 100% (9/9), 3.40 KiB, done.
+Total 9 (delta 3), reused 0 (delta 0)
+To git@github.com:ashwinraghav/Genesis-Client-Functional-Tests.git
+   d5f2919..8858c9a  master -> master
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ [H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ make clean
+make: *** No rule to make target `clean'. Stop.
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ cd command_pwd/
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_pwdubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_pwd$ (reverse-i-search)`': [Kc': cd command_pwd/[4Pl': make clean[1@e[C[C[C[C[C[C[C[C[1@a[C[C[C[C[C[C[C[C[1@n[C[C[C[C[C[C[C[C[C[C[C[C[C MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_pwdubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_pwd$ make clean MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_pwdubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_pwd$ cd ..
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ git stau[Ktus
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   README
+#	deleted:    command_fuse/answer_1
+#	deleted:    command_fuse/output_1
+#	deleted:    command_mkdir/answer_1
+#	deleted:    command_mkdir/output_1
+#	deleted:    command_rm/.Makefile.swp
+#	deleted:    command_rm/.test_1.xml.swp
+#	modified:   command_set/VAR_NAME=VAR_X
+#	deleted:    command_unlink/.Makefile.swp
+#	deleted:    command_unlink/answer_1
+#	deleted:    command_unlink/command_aln/Makefile
+#	deleted:    command_unlink/command_aln/test_1.xml
+#	deleted:    command_unlink/output_1
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	command_history/
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ git add [K[K[K[K[K[K[K[Kcd command_history/
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_historyubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_history$ (reverse-i-search)`': [Km': cd command_history/[1@a[C[C[C[C[C[C[C[C[Ck': make clean MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@e[C[C[C[1@ [C[C[Ct': make test[1@e[C[C[C[1@s[C[C[C]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_historyubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_history$ make test MOUNTED_HOME="../mount_point/home/ashwinraghav" USER_NAME="ashwinraghav"
+rm -rf "../mount_point/home/ashwinraghav/"ls_test""
+rm -rf "../mount_point/home/ashwinraghav/"test_1.xml""
+rm -rf answer_* output_*
+mkdir "../mount_point/home/ashwinraghav/"ls_test""
+cp ""test_1.xml"" "../mount_point/home/ashwinraghav/"
+echo "0 script DIR="ls_test" NEW_DIR="directory" test_1.xml\n1 cd "ls_test"\n2 mkdir "directory"\n3 cd "directory"\n4 history " > answer_1
+#if other options are to be tested, they go here as answer_2, _3 etc
+../../grid script DIR="ls_test" NEW_DIR="directory" test_1.xml > output_1
+Current version is 2.3.4 Build 2230.
+#if other options are to be tested, they go here as output_1, _2 etc
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_historyubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_history$ cat answer_1 
+0 script DIR=ls_test NEW_DIR=directory test_1.xml
+1 cd ls_test
+2 mkdir directory
+3 cd directory
+4 history 
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_historyubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_history$ cat output_1 
+0 script DIR=ls_test NEW_DIR=directory test_1.xml 
+1 cd ls_test 
+2 mkdir directory 
+3 cd directory 
+4 history 
+
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_historyubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_history$ diff answer_1 output_1 [H[2J]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_historyubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_history$ diff answer_1 output_1 
+1,4c1,4
+< 0 script DIR=ls_test NEW_DIR=directory test_1.xml
+< 1 cd ls_test
+< 2 mkdir directory
+< 3 cd directory
+---
+> 0 script DIR=ls_test NEW_DIR=directory test_1.xml 
+> 1 cd ls_test 
+> 2 mkdir directory 
+> 3 cd directory 
+5a6
+> 
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_historyubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_history$ diff answer_1 output_1 [C[1@-[1@B[1@ [1@-[1@b[1@ [1@-[1@w[1@ 
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Tests/command_historyubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests/command_history$ cd ..
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ git status
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   README
+#	deleted:    command_fuse/answer_1
+#	deleted:    command_fuse/output_1
+#	deleted:    command_mkdir/answer_1
+#	deleted:    command_mkdir/output_1
+#	deleted:    command_rm/.Makefile.swp
+#	deleted:    command_rm/.test_1.xml.swp
+#	deleted:    command_set/.Makefile.swp
+#	modified:   command_set/VAR_NAME=VAR_X
+#	deleted:    command_unlink/.Makefile.swp
+#	deleted:    command_unlink/answer_1
+#	deleted:    command_unlink/command_aln/Makefile
+#	deleted:    command_unlink/command_aln/test_1.xml
+#	deleted:    command_unlink/output_1
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.Makefile.swl
+#	command_history/
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ git add command_history/
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ git ad[K[Kcommit -m ""h"i"s"t"o"r"y" "c"o"m"m"a"n"d"
+[master b142f3f] history command
+ Committer: ubuntu <ubuntu@ubuntu-VirtualBox.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+If the identity used for this commit is wrong, you can fix it with:
+
+    git commit --amend --author='Your Name <you@example.com>'
+
+ 4 files changed, 51 insertions(+), 0 deletions(-)
+ create mode 100644 command_history/Makefile
+ create mode 100644 command_history/answer_1
+ create mode 100644 command_history/output_1
+ create mode 100644 command_history/test_1.xml
+]0;ubuntu@ubuntu-VirtualBox: ~/GenesisII/Genesis-Client-Functional-Testsubuntu@ubuntu-VirtualBox:~/GenesisII/Genesis-Client-Functional-Tests$ git push origin master[H[2

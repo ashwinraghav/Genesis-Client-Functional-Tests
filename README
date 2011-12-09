@@ -31,8 +31,18 @@ make test MOUNTED_HOME="../mount_point/home/your-grid-user-name" USER_NAME="your
 Running the test individually can provide information on the cause for failure & assist debugging
 --------------------------------------------------------------
 Notes on tests
+	ping
+	schedule-termination
+	script
+	set
+	set-resource-properties
+	set-user-config
+	user-preferences
 
-The edit command cannot be quite tested. 
+Comamnds that cannot be tested.
+edit				|	cannot be run from terminal
+client-ui			|	cannot be run from terminal
+update				|	cannot be tested without mocking some release.
 
 Commands that need review
 export
